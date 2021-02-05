@@ -26,11 +26,11 @@ I'm a Biostatistics PhD candidate at University of California, Berkeley, advised
   - Bioinformatics
 
 ## Education
-- **Ph.D. in Biostatistics**, 2017-Present
+- **Ph.D. in Biostatistics**, 2017-Present\
   *University of California, Berkeley*
-- **M.S. in Biostatistics**, 2015-2017
+- **M.S. in Biostatistics**, 2015-2017\
   *University of California, Berkeley*
-- **B.Sc. in Mathematics**, 2011-2015
+- **B.Sc. in Mathematics**, 2011-2015\
   *Tsinghua University*
 
 
