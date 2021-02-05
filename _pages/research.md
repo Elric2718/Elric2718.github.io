@@ -8,7 +8,7 @@ author_profile: true
 
 # Journal Publications
 - Calvin Chi, **Yuting Ye**, Bin Chen, and Haiyan Huang, Bipartite graph-based approach for clustering of cell lines by gene expression-drug response associations, accepted by Bioinformatics.
-- Wenpin Tang, *Yuting Ye*, The existence of maximum likelihood estimator in high-dimensional gen- eralized linear models. Electron. J. Statist. 14 (2020), no. 2, 4028–4053. doi:10.1214/20-EJS1766.
+- Wenpin Tang, **Yuting Ye**, The existence of maximum likelihood estimator in high-dimensional gen- eralized linear models. Electron. J. Statist. 14 (2020), no. 2, 4028–4053. doi:10.1214/20-EJS1766.
 - **Yuting Ye**, Yin Xia, Lexin Li. Paired Test of Matrix Graphs and Brain Connectivity Analysis.
 
 
