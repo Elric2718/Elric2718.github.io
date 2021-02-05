@@ -14,24 +14,23 @@ I'm a Biostatistics PhD candidate at University of California, Berkeley, advised
 
 ## Research interest
 - Machie Learning
--- Theory of Nonconvex Learning
--- Graph Neural Network
--- Multi-label Calssification
+  - Theory of Nonconvex Learning
+  - Graph Neural Network
+  - Multi-label Calssification
 - Statistics
--- Bayesian Model
--- Mixture Model
--- Non-parametric Statistics
-
+  - Bayesian Model
+  - Mixture Model
+  - Non-parametric Statistics
 - Computational Biology
--- Pharmocogenomics
--- Bioinformatics
+  - Pharmocogenomics
+  - Bioinformatics
 
 ## Education
-- ** Ph.D. in Biostatistics**, 2017-Present
-*University of California, Berkeley*
+- **Ph.D. in Biostatistics**, 2017-Present
+  *University of California, Berkeley*
 - **M.S. in Biostatistics**, 2015-2017
-*University of California, Berkeley*
+  *University of California, Berkeley*
 - **B.Sc. in Mathematics**, 2011-2015
-*Tsinghua University*
+  *Tsinghua University*
 
 
