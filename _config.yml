@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yuting Ye"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  #location         : "Location"
+  bio              : "Yuting Ye is Biostatistics PhD student at UC Berkeley interested in machine learning, statistics, data science."
+  #location         : 
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=YPAG3-gAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yuting_Ye"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Elric2718"
+  github           : "https://github.com/Elric2718"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yuting-ye-65b495125/"
+  #orcid           : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  #twitter          : "replacethistwitterhandle"
+  #twitter         :
   vine             :
   weibo            :
   xing             :
